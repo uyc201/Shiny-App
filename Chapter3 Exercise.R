@@ -66,4 +66,3 @@ server3 <- function(input, output, session) {
 var <- reactive(df[[input$var]])
 range <- reactive(range(var(), na.rm = TRUE))
 
-
