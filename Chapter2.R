@@ -1,4 +1,4 @@
-### Chapter 2 Exercise ###
+### Chapter 2 Notes & Exercise ###
 
 #library
 library(shiny)
